@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\WorkArea\\persons1\\Persons\\Persons.Service.csproj",
+      "projectUniqueName": "C:\\WorkArea\\persons2\\Persons\\Persons.Service.csproj",
       "projectName": "Persons.Service",
-      "projectPath": "C:\\WorkArea\\persons1\\Persons\\Persons.Service.csproj",
+      "projectPath": "C:\\WorkArea\\persons2\\Persons\\Persons.Service.csproj",
       "packagesPath": "C:\\Users\\Zed\\.nuget\\packages\\",
-      "outputPath": "C:\\WorkArea\\persons1\\Persons\\obj\\",
+      "outputPath": "C:\\WorkArea\\persons2\\Persons\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

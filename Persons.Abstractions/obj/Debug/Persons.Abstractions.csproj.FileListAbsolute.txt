@@ -1,0 +1,13 @@
+C:\Users\Zed\Desktop\persons-master\Persons.Abstractions\bin\Debug\Persons.Abstractions.dll
+C:\Users\Zed\Desktop\persons-master\Persons.Abstractions\bin\Debug\Persons.Abstractions.pdb
+C:\Users\Zed\Desktop\persons-master\Persons.Abstractions\bin\Debug\AutoMapper.dll
+C:\Users\Zed\Desktop\persons-master\Persons.Abstractions\bin\Debug\Nancy.dll
+C:\Users\Zed\Desktop\persons-master\Persons.Abstractions\bin\Debug\AutoMapper.pdb
+C:\Users\Zed\Desktop\persons-master\Persons.Abstractions\bin\Debug\AutoMapper.xml
+C:\Users\Zed\Desktop\persons-master\Persons.Abstractions\bin\Debug\Nancy.xml
+C:\Users\Zed\Desktop\persons-master\Persons.Abstractions\obj\Debug\Persons.Abstractions.csprojAssemblyReference.cache
+C:\Users\Zed\Desktop\persons-master\Persons.Abstractions\obj\Debug\Persons.Abstractions.csproj.CopyComplete
+C:\Users\Zed\Desktop\persons-master\Persons.Abstractions\obj\Debug\Persons.Abstractions.dll
+C:\Users\Zed\Desktop\persons-master\Persons.Abstractions\obj\Debug\Persons.Abstractions.pdb
+C:\Users\Zed\Desktop\persons-master\Persons.Abstractions\bin\Debug\Serilog.dll
+C:\Users\Zed\Desktop\persons-master\Persons.Abstractions\bin\Debug\Serilog.xml
