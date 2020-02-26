@@ -1,0 +1,8 @@
+C:\Users\Zed\Desktop\persons-master\Persons\bin\Debug\netstandard2.0\Persons.Service.deps.json
+C:\Users\Zed\Desktop\persons-master\Persons\bin\Debug\netstandard2.0\Persons.Service.dll
+C:\Users\Zed\Desktop\persons-master\Persons\bin\Debug\netstandard2.0\Persons.Service.pdb
+C:\Users\Zed\Desktop\persons-master\Persons\obj\Debug\netstandard2.0\Persons.Service.csprojAssemblyReference.cache
+C:\Users\Zed\Desktop\persons-master\Persons\obj\Debug\netstandard2.0\Persons.Service.AssemblyInfoInputs.cache
+C:\Users\Zed\Desktop\persons-master\Persons\obj\Debug\netstandard2.0\Persons.Service.AssemblyInfo.cs
+C:\Users\Zed\Desktop\persons-master\Persons\obj\Debug\netstandard2.0\Persons.Service.dll
+C:\Users\Zed\Desktop\persons-master\Persons\obj\Debug\netstandard2.0\Persons.Service.pdb
